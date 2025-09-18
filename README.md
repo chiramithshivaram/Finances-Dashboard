@@ -9,10 +9,10 @@
 3. Tech Stack
    The dashboard was build using the following tools and technologies:
    📊 Power BI Desktop - Main data visualization platform used for report creation.
-       Power Query - Data Transformation and cleaning layer for reshaping and preparing the data.
-       DAX (Data Analysis Expressions) - Used to calculate measures,dynamic visuals, and conditional logic.
-       Data Modeling - Relationships established for department-wise and category analysis.
-       Microsoft Excel - Data collection and initial cleaning.
+   ⚙️ Power Query - Data Transformation and cleaning layer for reshaping and preparing the data.
+   📐 DAX (Data Analysis Expressions) - Used to calculate measures,dynamic visuals, and conditional logic.
+   🔗 Data Modeling - Relationships established for department-wise and category analysis.
+   📑 Microsoft Excel - Data collection and initial cleaning.
 
 4. Data Source
    The dataset originated from an Excel file, which was cleaned and structured before being imported into Power BI for modeling and visualization.
