@@ -25,5 +25,5 @@
    Day-wise profit trends to understand performance patterns over time.
 
 6. Screenshots
-   [Dashboard Preview]{https://github.com/chiramithshivaram/Finances-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png}
+   [Dashboard Preview]{[https://github.com/chiramithshivaram/Finances-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png](https://github.com/chiramithshivaram/Finances-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)}
    
