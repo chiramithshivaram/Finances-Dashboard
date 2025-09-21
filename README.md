@@ -4,7 +4,7 @@
   - A Dynamic and interactive Power BI dashboard designed to monitor finanical performance metrics such as revenue,profit,discounts and return rates across departments.
 
 2. Description
-  -  The Finance Performance Dashboard is built to provide business leaders and managers with a clear view of key financial indicators.It highlights profit trends,discounts distribution,and return rates by             dapartment,enabling data-driven decision-making and performance tracking.
+  -  The Finance Performance Dashboard is built to provide business leaders and managers with a clear view of key financial indicators.It highlights profit trends,discounts distribution,and return rates by             department,enabling data-driven decision-making and performance tracking.
 
 3. Tech Stack
   - The dashboard was build using the following tools and technologies:
